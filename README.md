@@ -1,2 +1,2 @@
-# tangeld
+# tangled
 a lesson on git
